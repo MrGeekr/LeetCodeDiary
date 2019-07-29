@@ -8,7 +8,7 @@ import java.util.Map;
  * Date : 2019/7/28.
  * Description :1. 两数之和
  */
-public class TwoSum1 {
+public class TwoSum {
 
     public int[] twoSum(int[] nums, int target) {
         Map<Integer,Integer> map=new HashMap<>();
