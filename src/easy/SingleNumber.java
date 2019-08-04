@@ -7,7 +7,7 @@ import java.util.HashMap;
  * Date : 2019/7/28.
  * Description :136. 只出现一次的数字
  */
-public class SingleNumber136 {
+public class SingleNumber {
     public static void main(String[] args) {
         int[] array=new int[]{1,1,2,2,3,4,4,5,5,6,6};
         System.out.println( singleNumber(array));
